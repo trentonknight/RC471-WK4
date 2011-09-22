@@ -1,0 +1,64 @@
+% article example for classicthesis.sty
+\documentclass[11pt,a4paper]{scrartcl} % KOMA-Script article 
+\usepackage[round]{natbib}
+\usepackage{lipsum}
+\usepackage{url}
+\usepackage[LabelsAligned]{currvita} % nice cv style
+\usepackage[nochapters]{classicthesis} % nochapters
+\usepackage{tikz}
+\usepackage{amsthm}
+\usepackage{setspace}
+\usetikzlibrary{calc,shapes,arrows,automata,trees,shadows,decorations.pathmorphing,positioning,
+shapes.misc,shapes.arrows,chains,matrix,scopes,decorations.pathmorphing,backgrounds}
+\renewcommand*{\cvheadingfont}{\LARGE\color{OliveGreen}}
+\renewcommand*{\cvlistheadingfont}{\large}
+\renewcommand*{\cvlabelfont}{\qquad}
+\begin{document}
+\pagecolor{Gray!10}
+%Coverletter
+\begin{cv}{\spacedallcaps{Title}}
+        \begin{cvlist}{\textcolor{PineGreen}{\spacedlowsmallcaps{Jason~N~Mansfield}}}\label{PersDat}  
+            \item   Regis University
+            \item   3333\\
+                    Regis Boulevard Denver \\	
+                    Colorado 80221-1099
+            \item   mansf843@regis.edu\\				
+                    \url{http://www.regis.edu/}				
+        \end{cvlist}
+        \begin{cvlist}{\spacedlowsmallcaps{RC~471}}\label{irgendwas}
+            \item Instructed by Professor~Henri~Tshibambe\\
+             \url{http://tinyurl.com/3htorkr}
+        \end{cvlist}
+    \end{cv}
+\clearpage
+
+\noindent
+\textcolor{OliveGreen}{\spacedallcaps{The quoted article title}}\\
+\textcolor{PineGreen}{\spacedlowsmallcaps{paragraph or whatever}}
+\begin{verse}
+
+\end{verse}
+\textcolor{PineGreen}{Quoted article}~\cite{key here}
+\clearpage
+%Title
+\title{\textcolor{OliveGreen}{\rmfamily\normalfont\spacedallcaps{Title again}}}
+    \author{\textcolor{PineGreen}{\spacedlowsmallcaps{Jason N Mansfield}}}
+    \date{} % no date
+    
+    \maketitle
+    
+    \begin{abstract}
+  
+    \end{abstract}
+       
+    \tableofcontents
+    
+    \section{}
+
+  % bib stuff
+    \nocite{*}
+    \addtocontents{toc}{\protect\vspace{\beforebibskip}}
+    \addcontentsline{toc}{section}{\refname}    
+    \bibliographystyle{plainnat}
+    \bibliography{cite}
+\end{document}
