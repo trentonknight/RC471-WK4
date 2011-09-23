@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Essay-Template1.aux
+The style file: plainnat.bst
+Database file #1: cite.bib
+Warning--to sort, need author, editor, or key in niv
+Warning--empty author and editor in niv
+You've used 2 entries,
+            2773 wiz_defined-function locations,
+            604 strings with 5112 characters,
+and the built_in function-call counts, 605 in all, are:
+= -- 52
+> -- 10
+< -- 1
++ -- 5
+- -- 3
+* -- 36
+:= -- 85
+add.period$ -- 7
+call.type$ -- 2
+change.case$ -- 6
+chr.to.int$ -- 2
+cite$ -- 7
+duplicate$ -- 37
+empty$ -- 73
+format.name$ -- 4
+if$ -- 132
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 19
+num.names$ -- 4
+pop$ -- 23
+preamble$ -- 1
+purify$ -- 5
+quote$ -- 0
+skip$ -- 25
+stack$ -- 0
+substring$ -- 5
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 17
+warning$ -- 2
+while$ -- 3
+width$ -- 0
+write$ -- 34
+(There were 2 warnings)
