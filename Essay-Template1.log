@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  22 SEP 2011 20:19
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  22 SEP 2011 20:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -697,6 +697,57 @@ Package: amsthm 2009/07/02 v2.20.1
 Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
 
 Package: `setspace' 6.7 <2000/12/01>
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/bibleref/bibleref.sty
+Package: bibleref 2011/01/19 1.14 (NLCT)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2009/10/02 v1.31
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks37
+\ex@=\dimen173
+)
+\c@padzeroesN=\count127
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english 2007/05/26
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fmtcount/fc-UKenglish.def
+File: fc-UKenglish 2007/06/14
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fmtcount/fc-british.def
+File: fc-british 2007/06/14
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fmtcount/fc-USenglish.def
+File: fc-USenglish 2007/06/14
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fmtcount/fc-spanish.def
+File: fc-spanish.def 2007/05/26
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fmtcount/fc-portuges.def
+File: fc-portuges.def 2007/05/26
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fmtcount/fc-french.def
+File: fc-french.def 2007/05/26
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fmtcount/fc-german.def
+File: fc-german.def 2007/06/14
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fmtcount/fc-italian.def
+File: fc-italian.def 2009/10/02 Italian support for fmtcount (Edoardo Pasca)
+)
+No configuration file fmtcount.cfg found.
+\@DT@modctr=\count128
+\@ordinalctr=\count129
+\@orgargctr=\count130
+\@strctr=\count131
+\@tmpstrctr=\count132
+\@DT@loopN=\count133
+\@DT@X=\count134
+)
+\@bv@tmpa=\toks38
+\@bv@tmpb=\toks39
 )
 (/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarycalc.code.tex
@@ -777,7 +828,7 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 code.tex
 File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
-\arrowsize=\dimen173
+\arrowsize=\dimen174
 ))
 (/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryautomata.code.tex
@@ -805,14 +856,14 @@ s/tikzlibrarydecorations.pathmorphing.code.tex
 s/tikzlibrarydecorations.code.tex
 (/usr/local/texlive/2011/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
 s.code.tex
-\pgfdecoratedcompleteddistance=\dimen174
-\pgfdecoratedremainingdistance=\dimen175
-\pgfdecoratedinputsegmentcompleteddistance=\dimen176
-\pgfdecoratedinputsegmentremainingdistance=\dimen177
-\pgf@decorate@distancetomove=\dimen178
-\pgf@decorate@repeatstate=\count127
-\pgfdecorationsegmentamplitude=\dimen179
-\pgfdecorationsegmentlength=\dimen180
+\pgfdecoratedcompleteddistance=\dimen175
+\pgfdecoratedremainingdistance=\dimen176
+\pgfdecoratedinputsegmentcompleteddistance=\dimen177
+\pgfdecoratedinputsegmentremainingdistance=\dimen178
+\pgf@decorate@distancetomove=\dimen179
+\pgf@decorate@repeatstate=\count135
+\pgfdecorationsegmentamplitude=\dimen180
+\pgfdecorationsegmentlength=\dimen181
 )
 \tikz@lib@dec@box=\box58
 )
@@ -842,28 +893,28 @@ File: tikzlibrarybackgrounds.code.tex 2010/02/08 v2.10 (rcs-revision 1.2)
 ) (./Essay-Template1.aux)
 \openout1 = `Essay-Template1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Try loading font information for OT1+pplj on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Try loading font information for OT1+pplj on input line 17.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1pplj.fd
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
 )
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 17.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -871,11 +922,11 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count128
+\c@section@level=\count136
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
 
 (./Essay-Template1.out) (./Essay-Template1.out)
 \@outlinefile=\write4
@@ -884,20 +935,20 @@ LaTeX Info: Redefining \nameref on input line 16.
 
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count129
-\scratchdimen=\dimen181
+\scratchcounter=\count137
+\scratchdimen=\dimen182
 \scratchbox=\box62
-\nofMPsegments=\count130
-\nofMParguments=\count131
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count132
-\MPscratchDim=\dimen182
-\MPnumerator=\count133
-\makeMPintoPDFobject=\count134
-\everyMPtoPDFconversion=\toks38
+\nofMPsegments=\count138
+\nofMParguments=\count139
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count140
+\MPscratchDim=\dimen183
+\MPnumerator=\count141
+\makeMPintoPDFobject=\count142
+\everyMPtoPDFconversion=\toks41
 )
-\big@size=\dimen183
-LaTeX Info: Redefining \microtypecontext on input line 16.
+\big@size=\dimen184
+LaTeX Info: Redefining \microtypecontext on input line 17.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -930,31 +981,31 @@ e
 Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/pplj/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 26.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 27.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 26.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 27.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 26.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 27.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 26.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 27.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 26.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 27.
 
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -966,7 +1017,7 @@ Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/pplj/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--39
+Underfull \hbox (badness 10000) in paragraph at lines 36--40
 
  []
 
@@ -974,11 +1025,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--39
 
 ]
 LaTeX Font Info:    Font shape `OT1/pplj/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/pplj/b/n' tried instead on input line 56.
+(Font)              Font shape `OT1/pplj/b/n' tried instead on input line 57.
 Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/pplj/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-Package tocbasic Info: character protrusion at toc deactivated on input line 61
+Package tocbasic Info: character protrusion at toc deactivated on input line 62
 .
  (./Essay-Template1.toc)
 \tf@toc=\write5
@@ -987,37 +1038,44 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 61
  [3
 
 
-] (./Essay-Template1.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
- [4
+]
+Missing character: There is no â in font pplr9o!
+Missing character: There is no € in font pplr9o!
+Missing character: There is no   in font pplr9o!
+Missing character: There is no â in font pplr9o!
+Missing character: There is no € in font pplr9o!
+Missing character: There is no   in font pplr9o!
+ [4] (./Essay-Template1.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
+ [5
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
 
 (./Essay-Template1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 76.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 76.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
 Package rerunfilecheck Info: File `Essay-Template1.out' has not changed.
 (rerunfilecheck)             Checksum: 0F7518D8F32E04769FBD8E6DEC817E9F;180.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 76.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
- 20759 strings out of 493633
- 399413 string characters out of 3143378
- 631504 words of memory out of 3000000
- 23518 multiletter control sequences out of 15000+200000
- 36648 words of font info for 137 fonts, out of 3000000 for 9000
+ 21717 strings out of 493633
+ 415593 string characters out of 3143378
+ 673213 words of memory out of 3000000
+ 24426 multiletter control sequences out of 15000+200000
+ 37164 words of font info for 145 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 65i,8n,73p,545b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 65i,8n,73p,1261b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/20
 11/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2011/texm
 f-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Essay-Template1.pdf (4 pages, 62438 bytes).
+Output written on Essay-Template1.pdf (5 pages, 63930 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
+ 94 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
  40077 words of extra memory for PDF output out of 42996 (max. 10000000)
 
