@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  22 SEP 2011 20:52
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  22 SEP 2011 22:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1042,40 +1042,37 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 62
 Missing character: There is no â in font pplr9o!
 Missing character: There is no € in font pplr9o!
 Missing character: There is no   in font pplr9o!
-Missing character: There is no â in font pplr9o!
-Missing character: There is no € in font pplr9o!
-Missing character: There is no   in font pplr9o!
- [4] (./Essay-Template1.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
- [5
+ [4] [5] (./Essay-Template1.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+ [6
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
 
 (./Essay-Template1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `Essay-Template1.out' has not changed.
 (rerunfilecheck)             Checksum: 0F7518D8F32E04769FBD8E6DEC817E9F;180.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 21717 strings out of 493633
- 415593 string characters out of 3143378
- 673213 words of memory out of 3000000
- 24426 multiletter control sequences out of 15000+200000
- 37164 words of font info for 145 fonts, out of 3000000 for 9000
+ 21752 strings out of 493633
+ 415915 string characters out of 3143378
+ 673229 words of memory out of 3000000
+ 24429 multiletter control sequences out of 15000+200000
+ 38712 words of font info for 169 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 65i,8n,73p,1261b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 65i,8n,73p,1792b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/20
 11/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2011/texm
 f-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Essay-Template1.pdf (5 pages, 63930 bytes).
+Output written on Essay-Template1.pdf (6 pages, 67779 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  40077 words of extra memory for PDF output out of 42996 (max. 10000000)
 
