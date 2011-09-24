@@ -1,52 +1,56 @@
-This is BibTeX, Version 0.99d (TeX Live 2011)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
 The top-level auxiliary file: Essay-Template1.aux
 The style file: plainnat.bst
 Database file #1: cite.bib
-Warning--to sort, need author or key in sagadb
-Warning--to sort, need author, editor, or key in niv
-Warning--to sort, need author, editor, or key in Viking
-Warning--empty author and editor in Viking
-Warning--empty author and editor in niv
+I was expecting a `,' or a `}'---line 18 of file cite.bib
+ : 
+ : @Book{Viking,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 25 of file cite.bib
+ :  
+ :  note = "1ST edition (2000):Translated by  Karina Attwood, George Clark, Ruth C. Ellison, Terry Gunnell, Keneva Kuntz, Anthony Maxwell, Martin S. Regal, Bernard Scudder"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 You've used 3 entries,
-            2773 wiz_defined-function locations,
-            610 strings with 5176 characters,
-and the built_in function-call counts, 818 in all, are:
-= -- 74
-> -- 0
-< -- 0
-+ -- 3
-- -- 0
-* -- 58
-:= -- 88
-add.period$ -- 9
+            2774 wiz_defined-function locations,
+            616 strings with 5392 characters,
+and the built_in function-call counts, 1360 in all, are:
+= -- 109
+> -- 106
+< -- 2
++ -- 36
+- -- 33
+* -- 100
+:= -- 233
+add.period$ -- 12
 call.type$ -- 3
-change.case$ -- 7
+change.case$ -- 15
 chr.to.int$ -- 3
-cite$ -- 14
-duplicate$ -- 59
-empty$ -- 116
-format.name$ -- 0
-if$ -- 193
+cite$ -- 6
+duplicate$ -- 53
+empty$ -- 95
+format.name$ -- 38
+if$ -- 275
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 2
-newline$ -- 23
-num.names$ -- 0
-pop$ -- 35
+missing$ -- 4
+newline$ -- 26
+num.names$ -- 12
+pop$ -- 46
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 14
 quote$ -- 0
-skip$ -- 37
+skip$ -- 44
 stack$ -- 0
-substring$ -- 9
+substring$ -- 6
 swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 23
-warning$ -- 5
-while$ -- 0
+warning$ -- 0
+while$ -- 9
 width$ -- 0
-write$ -- 45
-(There were 5 warnings)
+write$ -- 51
+(There were 2 error messages)

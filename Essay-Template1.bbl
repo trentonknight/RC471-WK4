@@ -5,19 +5,24 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[sag(1893)]{sagadb}
-Egil's saga.
-\newblock \url{http://www.sagadb.org/egils_saga.en}, 1893.
-\newblock [Online; accessed 22-September-2011].
-
-\bibitem[Vik(2000)]{Viking}
-\emph{The Sagas of Icelanders}.
+\bibitem[Attwood et~al.(2000)Attwood, Clark, Ellison, Gunnell, Kuntz, Maxwell,
+  Regal, and Scudder]{Viking}
+Karina Attwood, George Clark, Ruth~C. Ellison, Terry Gunnell, Keneva Kuntz,
+  Anthony Maxwell, Martin~S. Regal, and Bernard Scudder.
+\newblock \emph{The Sagas of Icelanders}.
 \newblock Viking Penguin, New York, 2000.
 \newblock ISBN 0965477703.
 
-\bibitem[niv(2005)]{niv}
-\emph{NIV archaeological study Bible : an illustrated walk through biblical
-  history and culture : New International Version}.
+\bibitem[Green(1893)]{sagadb}
+W.~C. Green.
+\newblock Egil's saga.
+\newblock \url{http://www.sagadb.org/egils_saga.en}, 1893.
+\newblock [Online; accessed 22-September-2011].
+
+\bibitem[Jr. and Garrett(2005)]{niv}
+Walter C.~Kaiser Jr. and Duane Garrett.
+\newblock \emph{NIV archaeological study Bible : an illustrated walk through
+  biblical history and culture : New International Version}.
 \newblock Zondervan, Grand Rapids, Mich, 2005.
 \newblock ISBN 031092605X.
 
